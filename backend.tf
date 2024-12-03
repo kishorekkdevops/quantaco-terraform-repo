@@ -1,8 +1,8 @@
 terraform {
   backend "gcs" {
-    bucket = "tftask2024"
+    bucket = "quantacobucket"
     prefix = "terraform/global"
-    #project = "your-gcp-project-id"
-    credentials = "./nichecloudexpert-1bbb33e34e42.json"
+    #project = "quantaco-443301"
+    credentials = "./quantaco-443301-90aa0b1191d8.json"
   }
 }

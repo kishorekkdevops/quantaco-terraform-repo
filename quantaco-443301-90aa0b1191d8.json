@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "quantaco-443301",
+  "private_key_id": "90aa0b1191d878cc8f6b17649ef9178177133122",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP5ULSu2WBxzBE\n0AJmd8DsjfguSPe4nt8tdLuCOGQAHhcCFAmC9cB380KSgoD+OKiUZ6Flor4OuBb4\nzmirpLcLbruVr8IBKdhnSW/5qWiNLeTGrME9T3Dap6wWaPzG5PytmEcEBG48mkAt\nboaRCQ2NofzLxDwCG8goR/wuW9O3BNtw2/RtgW0MSAXqE5iD//ckHuDtIRBxvhJA\nQKpc9oXHkSCp0+HMa6ghJthIFvruKEC1a31YZGfYxk7wL0rWtJ8cMKXwy4W16F9j\n3ClwTY42UI6v++PoyaBvg0O/Vj0H1Nnbko6P1rm3gh4Un4edlJ0fWEWRCIM5e3t7\nrlp3AGKPAgMBAAECggEACRudqwF2Z9JJV+fBsH80RAjPjn44NW3nECTqPBZqsc31\nAGx5TYlPsSbxS92MzNZq8vQmpX8U6CyCJndV2EM4mQx1CmXvUBa8ZNYE96vyKSaR\nZxoqwxwHsS9MV5T/kgUhLsfE61+i/A5em77uWqH0u+I/YtFKNxDEMEOVwEAvTSLE\nnYQshPVM1ur/D+HuOn/odR4Em5FB8mKzGcqg4eTLzj6AHvnQ/MeRMhwTlmpXZooF\n0pnR0WvocBytQ1pnXMD0sYMcQ5B1SrCMlcjFvQ7Z7ycKxt5ATR9lfE2bLSrBDigV\ndI7PbjobIbA7LC0A67xCI8nqNa6T0lFAfUMkK9PIJQKBgQDuV8Botw0t9Ef6iQUF\nsuPdC+X2ZSh+ze3bnXG6aXpipWpgBVo3/mHegwsiwCatHyq0o7SwSNkbVA60gPxh\ngAAoG6+YtKDj1iGnvfURQrfmDWlbzx5c4BYiorU6vm1uXmgU9MGIzAj3XKCYz/N7\nuSAmkzuuIrOgKHkBgjshcvWcRQKBgQDfTBFc+tfFCm6yXH7VeM/fNynyT3Q8X4B9\nFwLUQ6QMoZTo5sIYnDio0d9X7RW5VYsTMtcOKE+lnpvPg1WuMfTf3+ctbAMWN8OS\ne3HFBQH5mCo9gvXDuGDBArmanG37LTljBLi93fCekxwsDgPCPONVLniyRmuyhuQA\nCyq5i8+SwwKBgApdYo6rNzWCZAbvInrG9sXMGKoIaCRrjCZ6yFFU+O+FRgT69pts\nwpDMnhVaydPJgS/t1pO790UK+MC8wzzyNg+IdLBtWnnN/BSxXBDuF9U3TBekACwF\nyrCi5sKxOU0NafVPV4M9bD5lls5ObMY6nL1Qtc2y0KDsYabBJRUlTK0JAoGAR3BH\nsc6Sz3hJ+Ag9j8BKCOjWI66lylbnfZ2qCwzk5CGhyW1iNYttWR1j7fZs19F1YBwI\nz3+4E42N3bLv634SELnKdS60QhxvFmMl/9ldS2QSR4GpbQeE9NsRVFStnwlV7cbp\n79ycia8Y+UM2kqL2PB9U//wlooUjVpw7/Aatzw8CgYEAndUxylyFuDi+VEnKa0+l\nO/gnbk0mNo/jV8PtRMYuWokyxUAw1W/+Ti9n7s+8Wiyq4KADer32cHamL1CU/u+2\nUZdrgoLqpBr8di2FlYAKwURFT1HoY0XnxPiqUYjMPpPLE/F/05vDF2R0wekjVeHl\niMLRfWN7HEId0X6lRNp9+m0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa1@quantaco-443301.iam.gserviceaccount.com",
+  "client_id": "118002582628327511169",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa1%40quantaco-443301.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
